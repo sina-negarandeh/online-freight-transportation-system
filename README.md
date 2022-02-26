@@ -10,6 +10,9 @@ The Online Freight Transportation System is a set of related software programs a
       - [Domain Model](#domain-model)
       - [Moving Request-System Sequence Diagram](#moving-request-system-sequence-diagram)
       - [Storing Request-System Sequence Diagram](#storing-request-system-sequence-diagram)
+    - [Phase 4](#phase-4)
+      - [Communication Diagram](#communication-diagram)
+      - [Class Diagram](#class-diagram)
 
 ## Project Phase
 
@@ -34,3 +37,13 @@ The Online Freight Transportation System is a set of related software programs a
 #### Storing Request-System Sequence Diagram
 
 ![Datapath](./img/storing_request-system_sequence_diagram.png)
+
+### Phase 4
+
+#### Communication Diagram
+
+![Datapath](./img/communication_diagram.png)
+
+#### Class Diagram
+
+![Datapath](./img/class_diagram.png)
