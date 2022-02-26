@@ -13,6 +13,7 @@ The Online Freight Transportation System is a set of related software programs a
     - [Phase 4](#phase-4)
       - [Communication Diagram](#communication-diagram)
       - [Class Diagram](#class-diagram)
+    - [Phase 5](#phase-5)
 
 ## Project Phase
 
@@ -47,3 +48,7 @@ The Online Freight Transportation System is a set of related software programs a
 #### Class Diagram
 
 ![Datapath](./img/class_diagram.png)
+
+### Phase 5
+
+The implementation code is in `src` directory.
